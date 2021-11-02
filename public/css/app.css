@@ -1,0 +1,24 @@
+#map-container {
+  height: 550px;
+}
+#cluster-map {
+  position: absolute;
+  /* top: 10%; */
+  left: 0;
+  width: 100%;
+  height: 500px;
+}
+
+#map {
+  width: 100%;
+  height: 500px;
+}
+
+.carousel-inner > .carousel-item > img {
+  height: 500px;
+}
+
+a.btn.btn-primary.view-button {
+  position: absolute;
+  bottom: 8%;
+}
