@@ -10,7 +10,7 @@ A full CRUD Express website for campground info sharing and rating.
 5) Geolocation mapping for the campgrounds
 6) Support multiple images upload and edit for the campgrounds.
 
-#Potential Future Development:
+## Potential Future Development:
 1) Add more features to show for each campground
 2) Support search engine
 3) Ranking, reccommending systems
